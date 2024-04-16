@@ -24,7 +24,7 @@ var status_text = document.getElementById
 var desc = document.querySelector(".description");
 
 
-const url = 'https://blynk.cloud/external/api/get?token=OfWcMxS9EADMRwlGoF5IPF2ncKkEt8Ug&v1';
+const url = 'https://blr1.blnk.cloud/external/api/update?token=iS-vaaxXxW9BM6lm-zHk5BcgjjHNWvit&v0';
 async function getWashingMachineStatus() {
     // const Http = new XMLHttpRequest();
     
